@@ -1,5 +1,3 @@
-console.log("Clientside javascript is loaded");
-
 var weatherForecastForm = document.querySelector("#weatherForecastForm");
 var addressField = document.querySelector("#addressField");
 var weatherForecastResultElm = document.querySelector("#weatherForecastResult");
